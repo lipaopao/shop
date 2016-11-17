@@ -1,0 +1,107 @@
+[ 2016-11-05T10:49:06+08:00 ] 127.0.0.1 /
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 46 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-11-05T10:49:06+08:00 ] 127.0.0.1 /
+NOTIC: [2] mkdir(): File exists C:\web\paopao\www\ThinkPHP\Library\Think\Build.class.php 第 67 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-11-05T10:53:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-11-05T11:02:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-11-05T11:18:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003466s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003984s ]
+
